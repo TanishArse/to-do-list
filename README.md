@@ -22,3 +22,8 @@ Keep track of your tasks, mark them as completed, and manage your day efficientl
 - CSS
 - JavaScript
 
+  
+## Live Demo
+[Check it out here]
+https://tanisharse.github.io/to-do-list/
+
